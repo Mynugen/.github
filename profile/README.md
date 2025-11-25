@@ -8,7 +8,7 @@ Using machine learning and vector based profiling, we model both students and co
 - Estimate likelihood of admission (safety / target / reach)
 - Show students how their profile is evolving over time as they work with coaches
 
-Over time, college vectors are refined using actual admission outcomes so that the system better reflects what each school is looking for.:contentReference[oaicite:0]{index=0}
+Over time, college vectors are refined using actual admission outcomes so that the system better reflects what each school is looking for.
 
 ---
 
