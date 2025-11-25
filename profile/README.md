@@ -12,15 +12,6 @@ Over time, college vectors are refined using actual admission outcomes so that t
 
 ---
 
-## Technical direction (high level)
-
-- Vector representations for students and colleges
-- Distance and similarity measures (for example cosine similarity, Euclidean or Mahalanobis distance)
-- Scoring of qualitative factors (essays, recommendations) to feed into the vector
-- Iterative refinement of college profiles using real admission results
-
----
-
 ## Internal repositories
 
 - `platform-tooling`  
